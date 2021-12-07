@@ -1,0 +1,4 @@
+
+
+BG = "black"
+FG = "white"
